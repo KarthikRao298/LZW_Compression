@@ -1,2 +1,2 @@
 # Objective
-#### LZW Encoder
+#### LZW Compression
